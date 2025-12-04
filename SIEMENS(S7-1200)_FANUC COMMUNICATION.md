@@ -1,4 +1,4 @@
-# 📘 Siemens S7-1215C ↔ FANUC Ethernet/IP Communication
+# 📘 Siemens S7-1215C ↔ FANUC LR-MATE 200iC Communication
 
 ## Configuration Notes & Project Setup Guide
 
@@ -21,4 +21,9 @@ YouTube: https://youtu.be/d5o3PmaFSU0?si=T_xlvVGKndtbFExo
 
 Your prepared communication-ready TIA Portal project files:
 https://drive.google.com/drive/folders/1_gVfdpbFh1j8hp0Ah5MqjoCHdesfhmxd
+
+## After Establishing the communication, How the PLC Tags are mapped is shown above
+
+
+
 

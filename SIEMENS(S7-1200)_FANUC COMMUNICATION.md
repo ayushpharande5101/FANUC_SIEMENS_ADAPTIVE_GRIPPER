@@ -6,4 +6,7 @@ https://support.industry.siemens.com/cs/document/109782314/ethernet-ip-scanner-%
 ## Follow the steps from the video from scratch
 https://youtu.be/d5o3PmaFSU0?si=T_xlvVGKndtbFExo
 
+## Following is the file which consist of siemens file, in which the communication setup is ready
+https://drive.google.com/drive/folders/1_gVfdpbFh1j8hp0Ah5MqjoCHdesfhmxd
+
 

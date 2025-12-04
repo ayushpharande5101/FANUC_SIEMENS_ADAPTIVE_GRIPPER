@@ -1,12 +1,24 @@
-# Siemens(S7-1215C DC/DC/DC Fanuc Communication)
+📘 Siemens S7-1215C ↔ FANUC Ethernet/IP Communication
 
-## Download Ethernet/IP Library for Siemens PLC 
-https://support.industry.siemens.com/cs/document/109782314/ethernet-ip-scanner-%E2%80%93-connecting-third-party-i-o%E2%80%99s-using-ethernet-ip?dti=0&lc=en-NO
+Configuration Notes & Project Setup Guide
 
-## Follow the steps from the video from scratch
-https://youtu.be/d5o3PmaFSU0?si=T_xlvVGKndtbFExo
+This guide documents the complete setup for enabling Ethernet/IP communication between a Siemens S7-1215C DC/DC/DC PLC and a FANUC controller, following Siemens' Ethernet/IP Scanner library and the referenced tutorial video.
 
-## Following is the file which consist of siemens file, in which the communication setup is ready
+📂 Resources
+🔗 Siemens Ethernet/IP Scanner Library
+
+Download:
+(Official Siemens Industry Support)
+Ethernet/IP Scanner – Connecting Third Party I/O
+https://support.industry.siemens.com/cs/document/109782314
+
+🎥 Tutorial Video Followed
+
+“How to Use Siemens Ethernet/IP Library (Step-by-Step)”
+YouTube: https://youtu.be/d5o3PmaFSU0?si=T_xlvVGKndtbFExo
+
+📁 Project Files (Siemens TIA Portal)
+
+Your prepared communication-ready TIA Portal project files:
 https://drive.google.com/drive/folders/1_gVfdpbFh1j8hp0Ah5MqjoCHdesfhmxd
-
 
